@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project showcases an automated garage door system controlled by an ESP32 microcontroller. The system allows for remote control via Bluetooth using a mobile application created in MIT App Inventor. Key components include a servo motor to open and close the door, an LDR (Light Dependent Resistor) to detect low-light conditions, LED indicators to show the door's status, and a manual push button for alternative control. The system is optimized to reduce energy consumption during servo operation.
-
+![](ExquemaConexionado1.png)
 ## How It Works
 - **Bluetooth Control**: Commands for opening and closing the door are sent from the mobile app to the ESP32 over Bluetooth.
 - **Light Detection**: An LDR sensor detects when light is blocked (simulating a vehicle’s presence) and prevents the door from closing for safety.
