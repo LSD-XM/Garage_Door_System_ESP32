@@ -8,7 +8,8 @@
 #define LED_PIN_VERDE 2
 #define SERVO_PIN 12
 #define LDR_PIN 34
-#define PULSADOR_PIN 13 //umbral de luz para determinar si las condiciones son de baja luz.
+#define PULSADOR_PIN 13 
+#define UMBRAL_LUZ_BAJA 1500 //umbral de luz para determinar si las condiciones son de baja luz.
 
 //Variables de Control
 Servo Motor;
