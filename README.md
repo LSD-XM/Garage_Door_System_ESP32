@@ -12,5 +12,4 @@ This project showcases an automated garage door system controlled by an ESP32 mi
 ## Repository Contents
 - **Code Files**: In the folder `CódigoArduino IDE`, you’ll find all the Arduino IDE code files created during development, showing the step-by-step process leading to the final version. The complete code is in the file [`PuertaGarajeFINAL.ino`](https://github.com/LSDXM/Garage_Door_System_ESP32/blob/main/C%C3%B3digoArduinoIDE/PuertaGarajeFINAL/PuertaGarajeFINAL.ino).
 - **Mobile App**: The application file (`ControlGaraje.apk`) can be installed on an Android phone to control the system remotely.
-- **Connection Diagram**: `EsquemaConexionado1.png` illustrates the wiring and setup of the components used in the project.
-- **Detailed Information**: For an in-depth explanation of the project, please refer to the [PDF]() included in this repository.
+- **Detailed Information**: For an in-depth explanation of the project (in Spanish), please refer to the [PDF](https://github.com/LSD-XM/Garage_Door_System_ESP32/blob/main/Informe_T%C3%A9cnico.pdf) included in this repository.
